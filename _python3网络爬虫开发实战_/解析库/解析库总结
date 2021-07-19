@@ -1,0 +1,17 @@
+xpath:
+//,/选择的是xpath
+[@class="star"]属性定位
+/@data-src 属性
+
+
+bs4:
+
+
+..选择的是BeautifulSoup
+
+
+
+pyquery
+.自身，无点下一列选择的是pyquery
+[href="//www.qidian.com/rank?chn=9"]属性定位
+[href]属性值

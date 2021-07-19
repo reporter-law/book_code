@@ -1,0 +1,6 @@
+1、找到算法如logisticregression
+2、数据处理：x为二维以上数组，y为一维数组
+3、算法fit数据
+4、模型predict标签
+5、数据处理处理方法：pca.fit(X_scaled)
+                    X_pca = pca.transform(X_scaled)
